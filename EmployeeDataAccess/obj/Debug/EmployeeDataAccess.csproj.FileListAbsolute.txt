@@ -1,0 +1,7 @@
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\ASP.net_WebApi\WebApi4\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

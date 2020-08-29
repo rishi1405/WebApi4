@@ -1,0 +1,5 @@
+D:\ASP.net_WebApi\WebApi4\ClientApplication\bin\ClientApplication.dll
+D:\ASP.net_WebApi\WebApi4\ClientApplication\bin\ClientApplication.pdb
+D:\ASP.net_WebApi\WebApi4\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+D:\ASP.net_WebApi\WebApi4\ClientApplication\obj\Debug\ClientApplication.dll
+D:\ASP.net_WebApi\WebApi4\ClientApplication\obj\Debug\ClientApplication.pdb
